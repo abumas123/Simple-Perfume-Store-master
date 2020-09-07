@@ -1,5 +1,4 @@
-package com.example.muntheraloraini.myapplication;
-
+package //your application path  ;
 import android.app.Activity;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
